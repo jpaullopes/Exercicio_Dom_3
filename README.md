@@ -2,7 +2,7 @@
 
 **Integrantes do Grupo:**
 1. [Thalysson Delano Borges Ferreira](https://github.com/thalyssonDEV)
-2. Nome do Integrante 2
+2. [Álvaro Pietro Borges de Sousa Brandão](https://github.com/PietroDev-01)
 3. Nome do Integrante 3
 
 ## Respostas às Questões da Atividade
