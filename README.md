@@ -1,7 +1,7 @@
 # Gerenciamento de Tarefas
 
 **Integrantes do Grupo:**
-1. Nome do Integrante 1
+1. [Thalysson Delano Borges Ferreira](https://github.com/thalyssonDEV)
 2. Nome do Integrante 2
 3. Nome do Integrante 3
 
