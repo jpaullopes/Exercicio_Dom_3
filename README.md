@@ -42,6 +42,3 @@ Antes de excluir uma tarefa, é exibida uma caixa de confirmação para o usuár
 2. Implementado um filtro para exibir apenas tarefas pendentes ou concluídas na tabela.
 3. Adicionado suporte para edição da descrição de uma tarefa diretamente na tabela.
 4. Melhorada a responsividade da página para dispositivos móveis, ajustando o layout da tabela e botões.
-
-### **5) Grave um vídeo de aproximadamente 10 min com a apresentação da atividade.**
-Link do vídeo: [Apresentação da Atividade](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
